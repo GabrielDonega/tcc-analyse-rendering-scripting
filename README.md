@@ -27,5 +27,3 @@ npm run dev
 ```sh
 npm run build
 ```
-# tcc-analyse-rendering-scripting
-# tcc-analyse-rendering-scripting
